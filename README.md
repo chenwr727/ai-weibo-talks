@@ -12,8 +12,8 @@
 ## 安装
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/chenwr727/ai-weibo-talks.git
+   cd ai-weibo-talks
    ```
 
 2. 安装依赖：
